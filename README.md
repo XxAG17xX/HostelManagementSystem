@@ -1,37 +1,45 @@
-📚 Hostel Management System | DBMS Project
+# 📚 **Hostel Management System | DBMS Project**
+---
 
-A straightforward yet informative project developed for understanding basic Database Management System (DBMS) concepts through a practical scenario—hostel management. Ideal for beginners exploring database implementation using SQL and PL/SQL.
+**A straightforward yet informative project developed for understanding basic Database Management System (DBMS) concepts through a practical scenario—hostel management. Ideal for beginners exploring database implementation using SQL and PL/SQL.**
 
-📌 Features
+---
 
-Student Registration: Basic management of student records.
+## 📌 **Features**
 
-Complaint Tracking: Record and manage hostel complaints effectively.
+- **🧑‍🎓 Student Registration**  
+  _Basic management of student records._
 
-Mess Feedback: Collection and storage of feedback regarding hostel meals.
+- **📋 Complaint Tracking**  
+  _Record and manage hostel complaints effectively._
 
-Laundry Service Management: Simple tracking system for laundry services.
+- **🍽️ Mess Feedback**  
+  _Collect student feedback on hostel meals._
 
-🛠️ Tech Stack
+- **🧺 Laundry Service Tracking**  
+  _Track laundry submissions and returns easily._
 
-SQL & PL/SQL: Database scripting and procedure automation.
+---
 
-Normalization & ER Diagrams: Fundamentals of relational database structuring.
+## 🛠️ **Tech Stack**
 
-Triggers & Procedures: Automation of data operations and validation.
+- **SQL & PL/SQL**: Database scripting and procedure automation.
+- **ER Diagrams**: Entity-relationship modeling for clear database visualization.
+- **Normalization**:
+  - **1NF (First Normal Form)**: Ensured single-valued attributes and no repeating groups.
+  - **2NF (Second Normal Form)**: Achieved partial dependency removal, focusing on non-key attributes.
+  - **3NF (Third Normal Form)**: Removed transitive dependencies for database integrity.
+- **Triggers & Procedures**: Automation of data operations and validation.
 
-🚀 Getting Started
+---
 
-Load the provided Hostelsqlscript.sql into your SQL database.
+## 🚀 **Getting Started**
 
-Run and explore provided queries and stored procedures.
+1. 📥 **Import** the provided `Hostelsqlscript.sql` into your SQL environment.
+2. ▶️ **Execute** and explore queries and stored procedures.
+3. ✨ **Customize or extend** as desired for enhanced learning.
 
-Customize or extend as desired for learning purposes.
-
-This project is a helpful resource for anyone beginning with databases, showcasing real-world applications of foundational DBMS concepts. 🎓
-
-⚠️ Disclaimer
-
-This project was created as an academic assignment to demonstrate fundamental concepts in database design and management. It is not intended for production or extensive practical usage without additional enhancements.
+---
 
 Feel free to explore or build upon this basic DBMS implementation for educational purposes! 🎓
+
